@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mecv-common-service-facade" />
+        <module name="mecv-controller" />
+        <module name="mecv-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mecv-common-service-facade" target="1.5" />
+      <module name="mecv-controller" target="1.7" />
+      <module name="mecv-rrs-v2" target="1.7" />
+      <module name="mecv-user" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

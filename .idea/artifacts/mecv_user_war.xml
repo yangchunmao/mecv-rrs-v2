@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mecv-user:war">
+    <output-path>$PROJECT_DIR$/mecv-user/target</output-path>
+    <root id="archive" name="mecv-user-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mecv-user:war exploded" />
+    </root>
+  </artifact>
+</component>
