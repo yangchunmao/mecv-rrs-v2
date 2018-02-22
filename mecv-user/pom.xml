@@ -58,6 +58,7 @@
 							<include>${project.build.finalName}.jar</include>
 						</resource>
 					</resources>
+					<forceTags>true</forceTags>
 				</configuration>
 			</plugin>
 			<!-- Mybatis-generator插件,用于自动生成Mapper和POJO -->
