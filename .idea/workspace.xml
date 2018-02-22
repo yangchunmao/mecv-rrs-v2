@@ -1,7 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a4c01d2-d381-47a7-8a86-b31e8745bd37" name="Default" comment="" />
+    <list default="true" id="3a4c01d2-d381-47a7-8a86-b31e8745bd37" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_1_5_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_10_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/CarsTrackInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-controller/src/main/docker/Dockerfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-controller/src/main/resources/application-dev.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-controller/src/main/resources/application-prod.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-controller/src/main/resources/application-test.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-controller/src/main/resources/logback-spring.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/CarsTrackMongoDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/impl/BaseMongoDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/impl/CarsTrackMongoDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/resources/application-dev.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/resources/application-prod.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/resources/application-test.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/resources/generatorConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/main/resources/logback-spring.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mecv-user/src/test/java/com/haier/dao/user/TestUserService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-common-service-facade/pom.xml" afterPath="$PROJECT_DIR$/mecv-common-service-facade/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/service/UserService.java" afterPath="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/service/UserService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-controller/pom.xml" afterPath="$PROJECT_DIR$/mecv-controller/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/MecvControllerApplication.java" afterPath="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/MecvControllerApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/HelloController.java" afterPath="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/HelloController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-controller/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/mecv-controller/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-rrs-v2.iml" afterPath="$PROJECT_DIR$/mecv-rrs-v2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-user/pom.xml" afterPath="$PROJECT_DIR$/mecv-user/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/service/impl/UserServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mecv-user/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/mecv-user/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/mecv-common-service-facade/target/" />
@@ -32,22 +91,65 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/mecv-user/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="567">
+              <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MecvControllerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/MecvControllerApplication.java">
+      <file leaf-file-name="CarsTrackInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/CarsTrackInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+            <state relative-caret-position="236">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="49" column="51" lean-forward="false" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestUserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mecv-user/src/test/java/com/haier/dao/user/TestUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="12" column="62" lean-forward="false" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+              <folding>
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,85 +158,41 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
-              <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="29" />
+            <state relative-caret-position="108">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/pom.xml">
+      <file leaf-file-name="BaseMongoDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/BaseMongoDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="108">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecv-user/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mecv-user/src/main/docker/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecv-controller/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/Mapper/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="23" />
-              <folding>
-                <marker date="1518403937118" expanded="true" signature="276:298" ph="select *from... boot_user" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/HelloController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/UserDao.java">
+      <file leaf-file-name="CarsTrackMongoDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/impl/CarsTrackMongoDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,7 +210,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>maven-surefire-plugin</find>
+      <find>logback</find>
+      <find>BaseResultMap</find>
+      <find>resultMap</find>
+      <find>com.github.pagehelper</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -168,25 +233,43 @@
         <option value="$PROJECT_DIR$/mecv-user/src/main/resources/init-sql/scheme.sql" />
         <option value="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/UserInfo.java" />
         <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/service/UserService.java" />
         <option value="$PROJECT_DIR$/mecv-user/src/test/java/com/haier/dao/user/TestUserDao.java" />
         <option value="$PROJECT_DIR$/mecv-user/src/main/resources/Mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/mecv-user/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/mecv-user/src/test/java/com/haier/Service/TestUserService.java" />
         <option value="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/user/UserControllerImpl.java" />
         <option value="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/user/UserController.java" />
-        <option value="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/mecv-controller/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/mecv-common-service-facade/src/test/java/com/haier/MecvCommonServiceFacadeApplicationTests.java" />
         <option value="$PROJECT_DIR$/mecv-controller/src/test/java/com/haier/MecvControllerApplicationTests.java" />
         <option value="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/MecvCommonServiceFacadeApplication.java" />
-        <option value="$PROJECT_DIR$/mecv-common-service-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/mybatis-generator-config.xml" />
+        <option value="$PROJECT_DIR$/mecv-common-service-facade/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/resources/Mapper/BootUserMapper.xml" />
+        <option value="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/BootUser.java" />
+        <option value="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/MecvControllerApplication.java" />
+        <option value="$PROJECT_DIR$/mecv-common-service-facade/pom.xml" />
+        <option value="$PROJECT_DIR$/mecv-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/resources/application-test.properties" />
+        <option value="$PROJECT_DIR$/mecv-controller/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/mecv-controller/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mecv-controller/src/main/resources/application-test.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/mecv-user/pom.xml" />
-        <option value="$PROJECT_DIR$/mecv-controller/pom.xml" />
-        <option value="$PROJECT_DIR$/mecv-user/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/CarsTrackInfo.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/mongdb/BaseMongoDAO.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/BaseMongoDAO.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/impl/BaseMongoDAOImpl.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/CarsTrackMongoDao.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/impl/CarsTrackMongoDaoImpl.java" />
+        <option value="$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/service/UserService.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/test/java/com/haier/dao/user/TestUserService.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/java/com/haier/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mecv-user/src/main/resources/application-dev.properties" />
       </list>
     </option>
   </component>
@@ -245,8 +328,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -312,6 +396,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -334,14 +422,9 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docker" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,7 +432,23 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Spring Boot.MecvControllerApplication">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.haier.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haier.dao.impl" />
+      <recent name="com.haier.mongdb" />
+      <recent name="com.haier.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ycmdesign\mecv-rrs-v2\mecv-controller\src\main\resources" />
+      <recent name="E:\ycmdesign\mecv-rrs-v2\mecv-controller\src\main\docker" />
+      <recent name="E:\ycmdesign\mecv-rrs-v2\mecv-user\src\main\resources" />
+      <recent name="E:\ycmdesign\mecv-rrs-v2\mecv-common-service-facade\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MecvUserApplication">
     <configuration default="false" name="TestUserDao.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -389,6 +488,58 @@
       <option name="PACKAGE_NAME" value="com.haier.Service" />
       <option name="MAIN_CLASS_NAME" value="com.haier.Service.TestUserService" />
       <option name="METHOD_NAME" value="testUserService" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestUserService.testPageHelper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haier.dao.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mecv-user" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.haier.dao.user" />
+      <option name="MAIN_CLASS_NAME" value="com.haier.dao.user.TestUserService" />
+      <option name="METHOD_NAME" value="testPageHelper" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestUserService.testMongodb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.haier.dao.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mecv-user" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.haier.dao.user" />
+      <option name="MAIN_CLASS_NAME" value="com.haier.dao.user.TestUserService" />
+      <option name="METHOD_NAME" value="testMongodb" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -828,17 +979,21 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.MecvCommonServiceFacadeApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.MecvUserApplication" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.MecvControllerApplication" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.TestUserDao.testFindAll" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.TestUserService.testUserService" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestUserService.testPageHelper" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TestUserService.testMongodb" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestUserDao.testFindAll" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestUserService.testUserService" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestUserService.testMongodb" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestUserService.testPageHelper" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestUserDao.testFindAll" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestUserService.testUserService" />
       </list>
     </recent_temporary>
   </component>
@@ -857,29 +1012,47 @@
       <workItem from="1518337994465" duration="2958000" />
       <workItem from="1518348469670" duration="2082000" />
       <workItem from="1518397682826" duration="23082000" />
-      <workItem from="1518507453011" duration="3448000" />
+      <workItem from="1518507453011" duration="4041000" />
+      <workItem from="1518831705068" duration="11757000" />
+      <workItem from="1519262027115" duration="2394000" />
+      <workItem from="1519264697469" duration="15232000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestUserDao_testFindAll - 2018.02.12 at 10h 33m 45s.xml">
-      <configuration name="TestUserDao.testFindAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestUserDao_testFindAll - 2018.02.12 at 10h 34m 45s.xml">
-      <configuration name="TestUserDao.testFindAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestUserDao_testFindAll - 2018.02.12 at 10h 35m 35s.xml">
-      <configuration name="TestUserDao.testFindAll" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestUserDao_testFindAll - 2018.02.12 at 13h 05m 21s.xml">
       <configuration name="TestUserDao.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testMongodb - 2018.02.22 at 15h 19m 06s.xml">
+      <configuration name="TestUserService.testMongodb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testMongodb - 2018.02.22 at 15h 20m 15s.xml">
+      <configuration name="TestUserService.testMongodb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testMongodb - 2018.02.22 at 15h 23m 27s.xml">
+      <configuration name="TestUserService.testMongodb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testMongodb - 2018.02.22 at 15h 25m 12s.xml">
+      <configuration name="TestUserService.testMongodb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testPageHelper - 2018.02.22 at 10h 03m 43s.xml">
+      <configuration name="TestUserService.testPageHelper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testPageHelper - 2018.02.22 at 10h 10m 11s.xml">
+      <configuration name="TestUserService.testPageHelper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testPageHelper - 2018.02.22 at 10h 10m 59s.xml">
+      <configuration name="TestUserService.testPageHelper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserService_testPageHelper - 2018.02.22 at 11h 16m 56s.xml">
+      <configuration name="TestUserService.testPageHelper" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestUserService_testUserService - 2018.02.12 at 10h 40m 10s.xml">
       <configuration name="TestUserService.testUserService" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37365000" />
+    <option name="totallyTimeSpent" value="67341000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -891,13 +1064,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3575298" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28518122" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33955225" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -905,28 +1078,28 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43770313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.664859" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45878524" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5222102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3347779" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18923241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60737526" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5075922" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21162046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -935,7 +1108,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3575298" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28518122" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2707889" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -944,19 +1117,19 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5709643" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43770313" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6110509" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5222102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30444205" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3347779" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15245202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -972,7 +1145,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -981,10 +1154,52 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/mvnw">
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/domain/qrtztriggers/QrtzSimpleTriggersKey.java" />
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/domain/qrtztriggers/QrtzSimpleTriggers.java.1" />
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/domain/qrtztriggers/QrtzSimpleTriggersExample.java" />
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/QrtzSimpleTriggersKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/QrtzSimpleTriggersExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/QrtzSimpleTriggers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/QrtzSimpleTriggersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="66" column="54" lean-forward="false" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/BootUserExample.java" />
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/Mapper/QrtzSimpleTriggersMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2.jar!/com/github/pagehelper/PageInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -992,45 +1207,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/test/java/com/haier/MecvCommonServiceFacadeApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/MecvUserApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1039,979 +1215,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/mvnw.cmd">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/test/java/com/haier/dao/user/TestUserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="e#410#411#0" expanded="false" />
+            <element signature="e#482#483#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/test/java/com/haier/MecvCommonServiceFacadeApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-starter/1.1.1/pagehelper-spring-boot-starter-1.1.1.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://SpringLocalModels/module=mecv-user">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>SpringLocalModels</ID>
-          <OriginalElement>module=mecv-user</OriginalElement>
-          <nodes>
-            <node x="" y="">module=mecv-user</node>
-            <node x="" y="">fileset=mecv-user/MecvUserApplication</node>
-            <node x="" y="">com.haier.MecvUserApplication</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.SpringBootApplication</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.4000000000000001" x="356.0" y="35.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Show filesets as groups</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/1.5.10.RELEASE/spring-boot-starter-1.5.10.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="621">
+          <caret line="50" column="47" lean-forward="false" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mecv-user/src/test/java/com/haier/MecvUserApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/init-sql/scheme.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/MecvUserApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/config/annotation/Service.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.haier:mecv-user:0.0.1-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.haier:mecv-user:0.0.1-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="0.0" y="1050.25">com.haier:mecv-user:0.0.1-SNAPSHOT</node>
-            <node x="172.0" y="1082.7639520202024">com.haier:mecv-common-service-facade:jar:0.0.1-SNAPSHOT</node>
-            <node x="178.0" y="929.25">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1</node>
-            <node x="459.0" y="929.25">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1</node>
-            <node x="833.5" y="971.0139520202024">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.mybatis:mybatis:jar:3.4.0</node>
-            <node x="812.5" y="1041.0139520202024">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.mybatis:mybatis-spring:jar:1.3.0</node>
-            <node x="784.5" y="582.875">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE</node>
-            <node x="1088.5" y="557.375">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.27</node>
-            <node x="1363.0" y="557.375">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.27/org.apache.tomcat:tomcat-juli:jar:8.5.27</node>
-            <node x="1843.5" y="582.875">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE</node>
-            <node x="2057.5" y="582.875">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE/org.springframework:spring-tx:jar:4.3.14.RELEASE</node>
-            <node x="197.0" y="178.125">mysql:mysql-connector-java:jar:5.1.44</node>
-            <node x="244.0" y="108.125">com.alibaba:druid:jar:1.0.20</node>
-            <node x="538.0" y="73.125">com.alibaba:druid:jar:1.0.20/com.alibaba:jconsole:jar:1.8.0</node>
-            <node x="547.5" y="143.125">com.alibaba:druid:jar:1.0.20/com.alibaba:tools:jar:1.8.0</node>
-            <node x="1067.0" y="869.7735479797989">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE</node>
-            <node x="1620.0" y="976.6092171717157">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE</node>
-            <node x="1835.0" y="272.60921717171584">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE</node>
-            <node x="1315.5" y="986.3592171717157">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.10.RELEASE</node>
-            <node x="1312.0" y="765.375">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE</node>
-            <node x="1610.5" y="660.375">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
-            <node x="1838.0" y="652.875">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
-            <node x="1619.5" y="870.375">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
-            <node x="1626.0" y="730.375">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
-            <node x="1611.0" y="800.375">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
-            <node x="2437.0" y="417.8827651515147">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE</node>
-            <node x="1363.0" y="827.75">org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
-            <node x="491.0" y="225.875">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE</node>
-            <node x="777.0" y="37.98421717171584">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE</node>
-            <node x="1335.0" y="0.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27</node>
-            <node x="1587.0" y="0.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27/org.apache.tomcat:tomcat-annotations-api:jar:8.5.27</node>
-            <node x="1073.0" y="96.88895202020251">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.27</node>
-            <node x="1047.0" y="12.75">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.27</node>
-            <node x="800.5" y="423.6327651515147">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final</node>
-            <node x="1084.0" y="487.375">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
-            <node x="1083.0" y="417.375">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final</node>
-            <node x="1095.0" y="347.375">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.4</node>
-            <node x="805.5" y="242.375">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10</node>
-            <node x="1065.0" y="277.375">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
-            <node x="1086.0" y="207.375">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-core:jar:2.8.10</node>
-            <node x="1622.0" y="174.375">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE</node>
-            <node x="2051.0" y="121.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-aop:jar:4.3.14.RELEASE</node>
-            <node x="2248.0" y="237.48421717171584">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE</node>
-            <node x="1349.0" y="122.38895202020251">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE</node>
-            <node x="2031.0" y="51.0">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE/org.springframework:spring-expression:jar:4.3.14.RELEASE</node>
-            <node x="483.5" y="1184.9728535353522">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0</node>
-            <node x="836.5" y="1194.6092171717157">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3</node>
-            <node x="1099.5" y="1239.8775883838389">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3/org.javassist:javassist:jar:3.21.0-GA</node>
-            <node x="1109.5" y="1169.8775883838389">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3/org.jboss.netty:netty:jar:3.2.5.Final</node>
-            <node x="834.5" y="1264.6092171717157">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7</node>
-            <node x="1092.0" y="1335.9824494949487">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6</node>
-            <node x="1382.0" y="1304.3775883838389">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6/jline:jline:jar:0.9.94</node>
-            <node x="1379.5" y="1374.3775883838389">io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6/io.netty:netty:jar:3.7.0.Final</node>
-            <node x="539.5" y="552.875">com.alibaba:fastjson:jar:1.2.12</node>
-            <node x="1061.0" y="1099.8775883838389">org.springframework.boot:spring-boot-devtools:jar:1.5.10.RELEASE</node>
-            <node x="237.0" y="1157.3364898989885">org.projectlombok:lombok:jar:1.16.20</node>
-            <node x="190.0" y="1588.4886363636365">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE</node>
-            <node x="808.0" y="1399.8775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.10.RELEASE</node>
-            <node x="471.0" y="1297.6092171717157">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.10.RELEASE</node>
-            <node x="534.5" y="1594.609217171716">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0</node>
-            <node x="825.0" y="1608.8775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1</node>
-            <node x="1076.0" y="1608.8775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1</node>
-            <node x="1381.5" y="1608.8775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1/org.ow2.asm:asm:jar:5.0.3</node>
-            <node x="1854.0" y="800.375">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="1643.0" y="1431.4824494949485">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/junit:junit:jar:4.12</node>
-            <node x="527.5" y="1539.8775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.assertj:assertj-core:jar:2.6.0</node>
-            <node x="523.0" y="1685.3775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
-            <node x="828.5" y="1698.1275883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
-            <node x="1835.0" y="1643.7324494949485">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
-            <node x="1607.5" y="1634.3775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
-            <node x="532.5" y="1469.8775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0</node>
-            <node x="818.5" y="1469.8775883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
-            <node x="2255.0" y="1749.1275883838389">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework:spring-test:jar:4.3.14.RELEASE</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.alibaba:druid:jar:1.0.20" target="com.alibaba:druid:jar:1.0.20/com.alibaba:tools:jar:1.8.0">
-              <point x="31.5" y="7.5" />
-              <point x="379.0" y="130.625" />
-              <point x="459.0" y="158.125" />
-              <point x="-30.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE">
-              <point x="60.5" y="2.5" />
-              <point x="1507.0" y="139.8889520202025" />
-              <point x="1587.0" y="136.61881313131232" />
-              <point x="1951.0" y="136.61881313131232" />
-              <point x="2031.0" y="176.0" />
-              <point x="2168.0" y="176.0" />
-              <point x="-54.5" y="-7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25">
-              <point x="97.5" y="3.75" />
-              <point x="1587.0" y="815.375" />
-              <point x="-60.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="43.5" y="-7.5" />
-              <point x="697.0" y="1602.109217171716" />
-              <point x="777.0" y="1598.3775883838389" />
-              <point x="1755.0" y="1598.3775883838389" />
-              <point x="1835.0" y="827.375" />
-              <point x="-39.0" y="12.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="49.0" y="-3.75" />
-              <point x="1951.0" y="185.625" />
-              <point x="2031.0" y="161.5" />
-              <point x="2357.0" y="161.5" />
-              <point x="-50.0" y="-6.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="85.5" y="10.909090909090992" />
-              <point x="379.0" y="1614.3977272727275" />
-              <point x="459.0" y="1738.6275883838389" />
-              <point x="2357.0" y="1738.6275883838389" />
-              <point x="-50.0" y="11.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.27">
-              <point x="95.0" y="-0.0" />
-              <point x="-92.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="60.0" y="-0.0" />
-              <point x="-39.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE">
-              <point x="58.0" y="3.75" />
-              <point x="2168.0" y="291.35921717171584" />
-              <point x="-54.5" y="2.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.10.RELEASE">
-              <point x="78.5" y="-7.5" />
-              <point x="1232.0" y="1107.3775883838389" />
-              <point x="-94.0" y="3.75" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6/jline:jline:jar:0.9.94">
-              <point x="47.5" y="-7.5" />
-              <point x="1232.0" y="1343.4824494949487" />
-              <point x="1312.0" y="1319.3775883838389" />
-              <point x="-27.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.27">
-              <point x="87.5" y="-10.0" />
-              <point x="1047.0" y="572.375" />
-              <point x="-51.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE">
-              <point x="87.0" y="12.5" />
-              <point x="697.0" y="253.375" />
-              <point x="777.0" y="873.6485479797989" />
-              <point x="967.0" y="873.6485479797989" />
-              <point x="1047.0" y="878.7735479797989" />
-              <point x="-72.5" y="-6.0" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3/org.javassist:javassist:jar:3.21.0-GA">
-              <point x="35.5" y="7.5" />
-              <point x="967.0" y="1217.1092171717157" />
-              <point x="1047.0" y="1254.8775883838389" />
-              <point x="-40.0" y="-0.0" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3/org.jboss.netty:netty:jar:3.2.5.Final">
-              <point x="35.5" y="-7.5" />
-              <point x="967.0" y="1202.1092171717157" />
-              <point x="1047.0" y="1184.8775883838389" />
-              <point x="-30.0" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.44">
-              <point x="46.0" y="-10.909090909090992" />
-              <point x="172.0" y="193.125" />
-              <point x="-78.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25">
-              <point x="97.5" y="-3.75" />
-              <point x="1587.0" y="745.375" />
-              <point x="-45.0" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-devtools:jar:1.5.10.RELEASE">
-              <point x="46.0" y="5.454545454545496" />
-              <point x="172.0" y="1125.9912247474751" />
-              <point x="967.0" y="1125.9912247474751" />
-              <point x="-78.5" y="7.5" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE">
-              <point x="46.0" y="-8.181818181818244" />
-              <point x="172.0" y="233.375" />
-              <point x="-87.0" y="-7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final">
-              <point x="87.0" y="7.5" />
-              <point x="697.0" y="248.375" />
-              <point x="777.0" y="438.6327651515147" />
-              <point x="-71.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1/org.ow2.asm:asm:jar:5.0.3">
-              <point x="63.5" y="-0.0" />
-              <point x="-28.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE">
-              <point x="60.5" y="12.5" />
-              <point x="1507.0" y="149.8889520202025" />
-              <point x="1587.0" y="287.60921717171584" />
-              <point x="-58.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-aop:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="48.5" y="-7.5" />
-              <point x="2357.0" y="128.5" />
-              <point x="-50.0" y="-8.75" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11">
-              <point x="60.5" y="-7.5" />
-              <point x="-55.0" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE/org.springframework:spring-tx:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE">
-              <point x="42.0" y="-7.5" />
-              <point x="2168.0" y="590.375" />
-              <point x="-54.5" y="12.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.assertj:assertj-core:jar:2.6.0">
-              <point x="85.5" y="-5.454545454545496" />
-              <point x="379.0" y="1598.034090909091" />
-              <point x="459.0" y="1554.8775883838389" />
-              <point x="-50.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.4">
-              <point x="71.5" y="-10.0" />
-              <point x="967.0" y="428.6327651515147" />
-              <point x="1047.0" y="362.375" />
-              <point x="-44.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-aop:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE">
-              <point x="48.5" y="7.5" />
-              <point x="2168.0" y="143.5" />
-              <point x="-54.5" y="-12.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE/org.springframework:spring-expression:jar:4.3.14.RELEASE">
-              <point x="60.5" y="-7.5" />
-              <point x="1507.0" y="129.8889520202025" />
-              <point x="1587.0" y="58.5" />
-              <point x="-68.5" y="-7.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE">
-              <point x="87.5" y="10.0" />
-              <point x="1047.0" y="872.7735479797989" />
-              <point x="-72.5" y="-12.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25">
-              <point x="97.5" y="11.25" />
-              <point x="1587.0" y="885.375" />
-              <point x="-51.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-library:jar:1.3">
-              <point x="85.5" y="2.727272727272748" />
-              <point x="379.0" y="1606.215909090909" />
-              <point x="459.0" y="1649.3775883838389" />
-              <point x="-63.5" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="org.projectlombok:lombok:jar:1.16.20">
-              <point x="46.0" y="8.181818181818244" />
-              <point x="172.0" y="1172.3364898989885" />
-              <point x="-38.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE">
-              <point x="72.5" y="-12.0" />
-              <point x="1232.0" y="872.7735479797989" />
-              <point x="-97.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="60.5" y="-12.5" />
-              <point x="1507.0" y="124.88895202020251" />
-              <point x="1587.0" y="40.5" />
-              <point x="2357.0" y="40.5" />
-              <point x="-50.0" y="-13.75" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE">
-              <point x="46.0" y="13.63636363636374" />
-              <point x="172.0" y="1603.4886363636365" />
-              <point x="-85.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0">
-              <point x="85.5" y="-0.0" />
-              <point x="379.0" y="1603.4886363636365" />
-              <point x="459.0" y="1609.609217171716" />
-              <point x="-43.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.10.RELEASE">
-              <point x="107.0" y="-7.5" />
-              <point x="1232.0" y="1305.1092171717157" />
-              <point x="-94.0" y="11.25" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1">
-              <point x="46.0" y="-2.727272727272748" />
-              <point x="-97.5" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0">
-              <point x="46.0" y="10.909090909090992" />
-              <point x="172.0" y="1207.4728535353522" />
-              <point x="-94.5" y="7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="54.5" y="-0.0" />
-              <point x="-50.0" y="-3.75" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0">
-              <point x="85.5" y="-8.181818181818244" />
-              <point x="379.0" y="1595.306818181818" />
-              <point x="459.0" y="1484.8775883838389" />
-              <point x="-45.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.10.RELEASE">
-              <point x="107.0" y="7.5" />
-              <point x="777.0" y="1407.3775883838389" />
-              <point x="-64.0" y="-7.5" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="com.alibaba:fastjson:jar:1.2.12">
-              <point x="46.0" y="-5.454545454545496" />
-              <point x="172.0" y="560.375" />
-              <point x="-38.5" y="-7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1">
-              <point x="45.5" y="-0.0" />
-              <point x="-53.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1">
-              <point x="43.5" y="7.5" />
-              <point x="697.0" y="1617.109217171716" />
-              <point x="777.0" y="1623.8775883838389" />
-              <point x="-47.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="72.5" y="-0.0" />
-              <point x="1232.0" y="884.7735479797989" />
-              <point x="1312.0" y="926.0139520202024" />
-              <point x="2357.0" y="926.0139520202024" />
-              <point x="-50.0" y="6.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27">
-              <point x="95.0" y="-10.0" />
-              <point x="1047.0" y="2.25" />
-              <point x="1232.0" y="2.25" />
-              <point x="1312.0" y="7.5" />
-              <point x="-74.5" y="-7.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1">
-              <point x="97.5" y="-0.0" />
-              <point x="-119.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-aop:jar:4.3.14.RELEASE">
-              <point x="58.0" y="-3.75" />
-              <point x="2031.0" y="146.0" />
-              <point x="-48.5" y="10.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.10.RELEASE">
-              <point x="119.0" y="-0.0" />
-              <point x="777.0" y="960.5139520202024" />
-              <point x="1232.0" y="960.5139520202024" />
-              <point x="-94.0" y="-3.75" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE">
-              <point x="94.0" y="-0.0" />
-              <point x="1587.0" y="991.6092171717157" />
-              <point x="-51.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="45.0" y="-0.0" />
-              <point x="1755.0" y="745.375" />
-              <point x="1835.0" y="809.375" />
-              <point x="-39.0" y="-6.0" />
-            </edge>
-            <edge source="com.haier:mecv-common-service-facade:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE">
-              <point x="103.5" y="-12.0" />
-              <point x="459.0" y="248.375" />
-              <point x="-87.0" y="7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework:spring-test:jar:4.3.14.RELEASE">
-              <point x="85.5" y="13.63636363636374" />
-              <point x="379.0" y="1617.125" />
-              <point x="459.0" y="1764.1275883838389" />
-              <point x="-47.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE">
-              <point x="119.0" y="-6.0" />
-              <point x="777.0" y="817.25" />
-              <point x="1507.0" y="817.25" />
-              <point x="1587.0" y="979.6092171717157" />
-              <point x="-51.0" y="-12.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-aop:jar:4.3.14.RELEASE">
-              <point x="49.0" y="-11.25" />
-              <point x="1755.0" y="178.125" />
-              <point x="1835.0" y="163.25" />
-              <point x="1951.0" y="163.25" />
-              <point x="2031.0" y="136.0" />
-              <point x="-48.5" y="-0.0" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7">
-              <point x="94.5" y="10.0" />
-              <point x="697.0" y="1209.9728535353522" />
-              <point x="777.0" y="1279.6092171717157" />
-              <point x="-37.5" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-common-service-facade:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-devtools:jar:1.5.10.RELEASE">
-              <point x="103.5" y="6.0" />
-              <point x="967.0" y="1103.7639520202024" />
-              <point x="-78.5" y="-7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27/org.apache.tomcat:tomcat-annotations-api:jar:8.5.27">
-              <point x="74.5" y="-0.0" />
-              <point x="-84.0" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="com.haier:mecv-common-service-facade:jar:0.0.1-SNAPSHOT">
-              <point x="46.0" y="-0.0" />
-              <point x="-103.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10">
-              <point x="87.0" y="2.5" />
-              <point x="697.0" y="243.375" />
-              <point x="777.0" y="257.375" />
-              <point x="-66.5" y="-0.0" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6/jline:jline:jar:0.9.94" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/junit:junit:jar:4.12">
-              <point x="27.5" y="-0.0" />
-              <point x="1507.0" y="1319.3775883838389" />
-              <point x="1587.0" y="1438.9824494949485" />
-              <point x="-28.0" y="-7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1">
-              <point x="47.0" y="-0.0" />
-              <point x="-63.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final">
-              <point x="71.5" y="-0.0" />
-              <point x="967.0" y="438.6327651515147" />
-              <point x="1047.0" y="432.375" />
-              <point x="-56.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1">
-              <point x="55.0" y="7.5" />
-              <point x="697.0" y="1707.8775883838389" />
-              <point x="777.0" y="1713.1275883838389" />
-              <point x="-43.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.10.RELEASE">
-              <point x="85.5" y="-10.909090909090992" />
-              <point x="379.0" y="1592.5795454545455" />
-              <point x="459.0" y="1422.3775883838389" />
-              <point x="-64.0" y="7.5" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE/org.springframework:spring-tx:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="42.0" y="7.5" />
-              <point x="2357.0" y="605.375" />
-              <point x="-50.0" y="1.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE">
-              <point x="72.5" y="6.0" />
-              <point x="1232.0" y="890.7735479797989" />
-              <point x="1312.0" y="975.8592171717157" />
-              <point x="1507.0" y="975.8592171717157" />
-              <point x="1587.0" y="985.6092171717157" />
-              <point x="-51.0" y="-6.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="55.0" y="-7.5" />
-              <point x="697.0" y="1692.8775883838389" />
-              <point x="777.0" y="1687.6275883838389" />
-              <point x="1755.0" y="1687.6275883838389" />
-              <point x="-58.0" y="11.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE">
-              <point x="64.0" y="-0.0" />
-              <point x="1507.0" y="1414.8775883838389" />
-              <point x="1587.0" y="1003.6092171717157" />
-              <point x="-51.0" y="12.0" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="com.alibaba:druid:jar:1.0.20">
-              <point x="46.0" y="-13.63636363636374" />
-              <point x="172.0" y="123.125" />
-              <point x="-31.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.27" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.27/org.apache.tomcat:tomcat-juli:jar:8.5.27">
-              <point x="51.0" y="-0.0" />
-              <point x="-46.5" y="-0.0" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.alibaba:dubbo:jar:2.5.3">
-              <point x="94.5" y="-0.0" />
-              <point x="697.0" y="1199.9728535353522" />
-              <point x="777.0" y="1209.6092171717157" />
-              <point x="-35.5" y="-0.0" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE">
-              <point x="94.5" y="-10.0" />
-              <point x="697.0" y="1189.9728535353522" />
-              <point x="777.0" y="1169.0864898989885" />
-              <point x="967.0" y="1169.0864898989885" />
-              <point x="1047.0" y="896.7735479797989" />
-              <point x="-72.5" y="12.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/junit:junit:jar:4.12" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="28.0" y="-0.0" />
-              <point x="1755.0" y="1446.4824494949485" />
-              <point x="-58.0" y="-11.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-devtools:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE">
-              <point x="78.5" y="7.5" />
-              <point x="1232.0" y="1122.3775883838389" />
-              <point x="1312.0" y="1139.6092171717157" />
-              <point x="1507.0" y="1139.6092171717157" />
-              <point x="1587.0" y="997.6092171717157" />
-              <point x="-51.0" y="6.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="60.5" y="7.5" />
-              <point x="1755.0" y="682.875" />
-              <point x="1835.0" y="803.375" />
-              <point x="-39.0" y="-12.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-core:jar:2.8.10">
-              <point x="66.5" y="-7.5" />
-              <point x="967.0" y="249.875" />
-              <point x="1047.0" y="222.375" />
-              <point x="-53.5" y="-0.0" />
-            </edge>
-            <edge source="com.alibaba:druid:jar:1.0.20" target="com.alibaba:druid:jar:1.0.20/com.alibaba:jconsole:jar:1.8.0">
-              <point x="31.5" y="-7.5" />
-              <point x="379.0" y="115.625" />
-              <point x="459.0" y="88.125" />
-              <point x="-40.0" y="-0.0" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6">
-              <point x="37.5" y="-0.0" />
-              <point x="967.0" y="1279.6092171717157" />
-              <point x="1047.0" y="1350.9824494949487" />
-              <point x="-47.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.10.RELEASE">
-              <point x="85.5" y="-13.63636363636374" />
-              <point x="379.0" y="1589.8522727272725" />
-              <point x="-107.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-aop:jar:4.3.14.RELEASE">
-              <point x="60.5" y="-2.5" />
-              <point x="1507.0" y="134.8889520202025" />
-              <point x="1587.0" y="123.0" />
-              <point x="1951.0" y="123.0" />
-              <point x="-48.5" y="-10.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/org.slf4j:slf4j-api:jar:1.7.25">
-              <point x="51.5" y="-0.0" />
-              <point x="1755.0" y="885.375" />
-              <point x="1835.0" y="821.375" />
-              <point x="-39.0" y="6.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE/org.springframework:spring-expression:jar:4.3.14.RELEASE">
-              <point x="58.0" y="-11.25" />
-              <point x="-68.5" y="7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.27" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27">
-              <point x="92.5" y="-0.0" />
-              <point x="1312.0" y="22.5" />
-              <point x="-74.5" y="7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE">
-              <point x="51.0" y="-7.5" />
-              <point x="1755.0" y="984.1092171717157" />
-              <point x="-58.0" y="10.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final">
-              <point x="71.5" y="10.0" />
-              <point x="967.0" y="448.6327651515147" />
-              <point x="1047.0" y="502.375" />
-              <point x="-55.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="85.5" y="5.454545454545496" />
-              <point x="379.0" y="1608.943181818182" />
-              <point x="459.0" y="1674.8775883838389" />
-              <point x="1755.0" y="1674.8775883838389" />
-              <point x="-58.0" y="3.75" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="49.5" y="10.0" />
-              <point x="2031.0" y="683.3592171717157" />
-              <point x="2357.0" y="683.3592171717157" />
-              <point x="-50.0" y="3.75" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE">
-              <point x="119.0" y="-12.0" />
-              <point x="-87.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.mybatis:mybatis:jar:3.4.0">
-              <point x="119.0" y="6.0" />
-              <point x="777.0" y="986.0139520202024" />
-              <point x="-38.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="58.0" y="11.25" />
-              <point x="2357.0" y="298.85921717171584" />
-              <point x="-50.0" y="-1.25" />
-            </edge>
-            <edge source="com.haier:mecv-common-service-facade:jar:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE">
-              <point x="103.5" y="-0.0" />
-              <point x="967.0" y="1097.7639520202024" />
-              <point x="1047.0" y="884.7735479797989" />
-              <point x="-72.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0">
-              <point x="66.5" y="7.5" />
-              <point x="967.0" y="264.875" />
-              <point x="1047.0" y="292.375" />
-              <point x="-74.5" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-user:0.0.1-SNAPSHOT" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE">
-              <point x="46.0" y="2.727272727272748" />
-              <point x="172.0" y="1123.2639520202024" />
-              <point x="967.0" y="1123.2639520202024" />
-              <point x="1047.0" y="890.7735479797989" />
-              <point x="-72.5" y="6.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-library:jar:1.3" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-core:jar:1.3">
-              <point x="63.5" y="-0.0" />
-              <point x="1755.0" y="1649.3775883838389" />
-              <point x="-58.0" y="-3.75" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE">
-              <point x="87.0" y="-7.5" />
-              <point x="697.0" y="233.375" />
-              <point x="777.0" y="137.3889520202025" />
-              <point x="-60.5" y="-0.0" />
-            </edge>
-            <edge source="com.haier:mecv-common-service-facade:jar:0.0.1-SNAPSHOT" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0">
-              <point x="103.5" y="12.0" />
-              <point x="459.0" y="1192.4728535353522" />
-              <point x="-94.5" y="-7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.yaml:snakeyaml:jar:1.17">
-              <point x="72.5" y="-6.0" />
-              <point x="1232.0" y="878.7735479797989" />
-              <point x="1312.0" y="842.75" />
-              <point x="-46.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE">
-              <point x="49.0" y="11.25" />
-              <point x="1755.0" y="200.625" />
-              <point x="-58.0" y="-10.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE">
-              <point x="87.0" y="-12.5" />
-              <point x="697.0" y="228.375" />
-              <point x="-95.0" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.mybatis:mybatis-spring:jar:1.3.0">
-              <point x="119.0" y="12.0" />
-              <point x="777.0" y="1056.0139520202024" />
-              <point x="-59.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/junit:junit:jar:4.12">
-              <point x="85.5" y="-2.727272727272748" />
-              <point x="379.0" y="1600.7613636363635" />
-              <point x="459.0" y="1580.3775883838389" />
-              <point x="1507.0" y="1580.3775883838389" />
-              <point x="1587.0" y="1453.9824494949485" />
-              <point x="-28.0" y="7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.10.RELEASE">
-              <point x="72.5" y="12.0" />
-              <point x="1232.0" y="896.7735479797989" />
-              <point x="-94.0" y="-11.25" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19">
-              <point x="85.5" y="8.181818181818244" />
-              <point x="379.0" y="1611.6704545454545" />
-              <point x="459.0" y="1700.3775883838389" />
-              <point x="-55.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE">
-              <point x="60.5" y="7.5" />
-              <point x="1507.0" y="144.8889520202025" />
-              <point x="1587.0" y="181.875" />
-              <point x="-49.0" y="-7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE">
-              <point x="49.0" y="3.75" />
-              <point x="2168.0" y="193.125" />
-              <point x="-54.5" y="-2.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.27">
-              <point x="95.0" y="10.0" />
-              <point x="1047.0" y="111.88895202020251" />
-              <point x="-66.5" y="-0.0" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE">
-              <point x="87.5" y="-0.0" />
-              <point x="-49.5" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE">
-              <point x="87.0" y="-2.5" />
-              <point x="697.0" y="238.375" />
-              <point x="777.0" y="196.875" />
-              <point x="-49.0" y="7.5" />
-            </edge>
-            <edge source="com.haier:mecv-common-service-facade:jar:0.0.1-SNAPSHOT" target="com.alibaba:fastjson:jar:1.2.12">
-              <point x="103.5" y="-6.0" />
-              <point x="459.0" y="575.375" />
-              <point x="-38.5" y="7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE/org.springframework:spring-expression:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="68.5" y="-0.0" />
-              <point x="2357.0" y="66.0" />
-              <point x="-50.0" y="-11.25" />
-            </edge>
-            <edge source="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6" target="io.dubbo.springboot:spring-boot-starter-dubbo:jar:1.0.0/com.101tec:zkclient:jar:0.7/org.apache.zookeeper:zookeeper:jar:3.4.6/io.netty:netty:jar:3.7.0.Final">
-              <point x="47.5" y="7.5" />
-              <point x="1232.0" y="1358.4824494949487" />
-              <point x="1312.0" y="1389.3775883838389" />
-              <point x="-30.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="51.0" y="7.5" />
-              <point x="2357.0" y="999.1092171717157" />
-              <point x="-50.0" y="8.75" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE">
-              <point x="49.5" y="-10.0" />
-              <point x="2031.0" y="518.6485479797989" />
-              <point x="2168.0" y="518.6485479797989" />
-              <point x="-54.5" y="7.5" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework:spring-test:jar:4.3.14.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE">
-              <point x="47.5" y="-0.0" />
-              <point x="-50.0" y="13.75" />
-            </edge>
-            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.1.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.1.1/org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE/org.springframework:spring-tx:jar:4.3.14.RELEASE">
-              <point x="49.5" y="-0.0" />
-              <point x="-42.0" y="-0.0" />
-            </edge>
-            <edge source="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE" target="org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11">
-              <point x="97.5" y="-11.25" />
-              <point x="1587.0" y="675.375" />
-              <point x="-60.5" y="-0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.8351583887368009" x="277.0" y="248.0" />
-          <SelectedNodes>
-            <node>org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework:spring-test:jar:4.3.14.RELEASE</node>
-            <node>com.haier:mecv-user:0.0.1-SNAPSHOT</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="162">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/service/impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/BootUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="28" />
+        <state relative-caret-position="47">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/user/UserControllerImpl.java" />
-    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/user/UserController.java" />
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/test/java/com/haier/MecvCommonServiceFacadeApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/test/java/com/haier/Service/TestUserService.java" />
-    <entry file="file://$PROJECT_DIR$/mecv-controller/src/test/java/com/haier/MecvControllerApplicationTests.java">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/BootUserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="297">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-maven-plugin/1.5.10.RELEASE/spring-boot-maven-plugin-1.5.10.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/MecvControllerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="-54">
+          <caret line="4" column="79" lean-forward="false" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding>
+            <element signature="e#653#654#0" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/mvnw.cmd">
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3214">
+        <state relative-caret-position="506">
+          <caret line="30" column="71" lean-forward="false" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="71" />
+          <folding>
+            <marker date="1519270414672" expanded="false" signature="38:345" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/mvnw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-648">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/MecvCommonServiceFacadeApplication.java" />
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/test/java/com/haier/dao/user/TestUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.20/lombok-1.16.20.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="30" />
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/docker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/SpringBootConfiguration.class">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/init-sql/scheme.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/Mapper/BootUserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/annotation/ImportResource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/MecvControllerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        <state relative-caret-position="839">
+          <caret line="81" column="9" lean-forward="false" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1519270134190" expanded="true" signature="708:813" ph="select from boot_user" />
+            <marker date="1519270134190" expanded="true" signature="899:958" ph="delete from " />
+            <marker date="1519270134190" expanded="true" signature="1040:1225" ph="insert into boot_user... " />
+            <marker date="1519270134190" expanded="true" signature="2128:2473" ph="update boot_... " />
+            <marker date="1519270134190" expanded="true" signature="2567:2752" ph="update boot_... " />
           </folding>
         </state>
       </provider>
@@ -2026,52 +1339,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/java/com/haier/controller/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="371">
+          <caret line="57" column="38" lean-forward="false" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application-prod.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-user/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application-test.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mecv-controller/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="1431">
+          <caret line="53" column="88" lean-forward="false" selection-start-line="53" selection-start-column="88" selection-end-line="53" selection-end-column="88" />
           <folding />
         </state>
       </provider>
@@ -2079,7 +1374,190 @@
     <entry file="file://$PROJECT_DIR$/mecv-user/src/main/docker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/MecvUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#672#673#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#347#348#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="88" lean-forward="false" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="157" column="62" lean-forward="false" selection-start-line="157" selection-start-column="62" selection-end-line="157" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="54" lean-forward="false" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-controller/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/CarsTrackMongoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/impl/BaseMongoDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/domain/CarsTrackInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-common-service-facade/src/main/java/com/haier/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/impl/CarsTrackMongoDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/dao/BaseMongoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/java/com/haier/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-controller/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="57" lean-forward="false" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/test/java/com/haier/dao/user/TestUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="62" lean-forward="false" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mecv-user/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="49" column="51" lean-forward="false" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
           <folding />
         </state>
       </provider>

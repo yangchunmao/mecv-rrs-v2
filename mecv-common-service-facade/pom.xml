@@ -3,12 +3,6 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<!--<parent>-->
-		<!--<groupId>com.haier</groupId>-->
-		<!--<artifactId>mecv-rrs-v2</artifactId>-->
-		<!--<version>0.0.1-SNAPSHOT</version>-->
-		<!--<relativePath>../pom.xml</relativePath>-->
-	<!--</parent>-->
 	<groupId>com.haier</groupId>
 	<artifactId>mecv-common-service-facade</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -17,17 +11,28 @@
 	<name>mecv-common-service-facade</name>
 	<description>基础服务,提供Dubbo服务的接口, 基本功能等</description>
 
+	<properties>
+		<com.alibaba.fastjson>1.2.12</com.alibaba.fastjson>
+		<org.projectlombok>1.16.20</org.projectlombok>
+		<com.github.pagehelper>1.1.1</com.github.pagehelper>
+	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.12</version>
+			<version>${com.alibaba.fastjson}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.16.20</version>
+			<version>${org.projectlombok}</version>
 			<optional>true</optional>
 		</dependency>
-	</dependencies>
+		<dependency>
+			<groupId>com.github.pagehelper</groupId>
+			<artifactId>pagehelper-spring-boot-starter</artifactId>
+			<version>${com.github.pagehelper}</version>
+		</dependency>
+    </dependencies>
 </project>

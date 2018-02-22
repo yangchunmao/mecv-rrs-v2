@@ -1,5 +1,7 @@
 package com.haier.service;
 
+import com.github.pagehelper.PageInfo;
+import com.haier.domain.CarsTrackInfo;
 import com.haier.domain.UserInfo;
 
 import java.util.List;
@@ -10,4 +12,8 @@ import java.util.List;
 public interface UserService {
 
     List<UserInfo> findAll();
+
+    PageInfo<UserInfo> pageUserInfo(Integer pageNo, Integer pageSize);
+
+    String queryRecentlyCarsTrackInfo(CarsTrackInfo carsTrackInfo);
 }
