@@ -9,13 +9,16 @@
         <module name="mecv-common-service-facade" />
         <module name="mecv-controller" />
         <module name="mecv-user" />
+        <module name="mecv-user-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="mecv-common" target="1.5" />
       <module name="mecv-common-service-facade" target="1.5" />
       <module name="mecv-controller" target="1.7" />
       <module name="mecv-rrs-v2" target="1.7" />
       <module name="mecv-user" target="1.7" />
+      <module name="mecv-user-api" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

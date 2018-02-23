@@ -11,11 +11,11 @@ import com.haier.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
-import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 
 import java.util.List;
+
 
 /**
  * Created by Admin on 2018/2/12.
@@ -23,7 +23,7 @@ import java.util.List;
 @org.springframework.stereotype.Service
 @Service(version = "1.0.0")
 @Slf4j
-public class UserServiceImpl implements UserService{
+public class UserServiceImpl implements UserService {
 
     private final String CARS_ID = "carsId";
     private final String TRACK_TIME = "trackTime";
@@ -67,5 +67,6 @@ public class UserServiceImpl implements UserService{
         }
         return recCars.getTrackX() + "," + recCars.getTrackY();
     }
+
 
 }

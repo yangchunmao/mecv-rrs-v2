@@ -19,7 +19,7 @@
 	</parent>
 
 	<modules>
-		<module>mecv-common-service-facade</module>
+		<module>mecv-common</module>
 		<module>mecv-user</module>
 		<module>mecv-controller</module>
 	</modules>

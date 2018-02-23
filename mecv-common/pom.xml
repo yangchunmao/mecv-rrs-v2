@@ -4,12 +4,15 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.haier</groupId>
-	<artifactId>mecv-common-service-facade</artifactId>
+	<artifactId>mecv-common</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<modules>
+		<module>../mecv-user-api</module>
+	</modules>
+	<packaging>pom</packaging>
 
-	<name>mecv-common-service-facade</name>
-	<description>基础服务,提供Dubbo服务的接口, 基本功能等</description>
+	<name>mecv-common</name>
+	<description>基础服务</description>
 
 	<properties>
 		<com.alibaba.fastjson>1.2.12</com.alibaba.fastjson>

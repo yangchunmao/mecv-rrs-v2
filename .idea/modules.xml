@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mecv-common-service-facade/mecv-common-service-facade.iml" filepath="$PROJECT_DIR$/mecv-common-service-facade/mecv-common-service-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mecv-common/mecv-common.iml" filepath="$PROJECT_DIR$/mecv-common/mecv-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/mecv-controller/mecv-controller.iml" filepath="$PROJECT_DIR$/mecv-controller/mecv-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/mecv-rrs-v2.iml" filepath="$PROJECT_DIR$/mecv-rrs-v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mecv-user/mecv-user.iml" filepath="$PROJECT_DIR$/mecv-user/mecv-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mecv-user-api/mecv-user-api.iml" filepath="$PROJECT_DIR$/mecv-user-api/mecv-user-api.iml" />
     </modules>
   </component>
 </project>

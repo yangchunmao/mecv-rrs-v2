@@ -1,0 +1,4 @@
+com\haier\domain\UserInfo.class
+com\haier\domain\CarsTrackInfo.class
+com\haier\service\UserService.class
+com\haier\domain\BootUser.class

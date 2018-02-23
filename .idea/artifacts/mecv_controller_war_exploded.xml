@@ -8,7 +8,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="archive" name="mecv-common-service-facade-0.0.1-SNAPSHOT.jar">
-            <element id="module-output" name="mecv-common-service-facade" />
+            <element id="module-output" name="mecv-common" />
           </element>
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.5.10.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.10.RELEASE" />
